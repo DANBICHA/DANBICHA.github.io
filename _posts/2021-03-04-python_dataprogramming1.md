@@ -11,7 +11,7 @@ tag:
 comments: true
 ---
 
-```{.python}
+```python
 # an example of a dataframe in which python code can be executed in a browser
 
 # variable x is assigned value 10
