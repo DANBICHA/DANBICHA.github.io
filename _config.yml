@@ -4,8 +4,8 @@ bio:                'Can do everything!'
 description:        "!"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/2.jpg'
-background:         '#000000'
+logo:               'assets/img/thumb_50x50_qpfg26_sqdu-1phgpmb_2.jpg'
+background:         '#f6f0b6'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://DANBICHA.github.io
