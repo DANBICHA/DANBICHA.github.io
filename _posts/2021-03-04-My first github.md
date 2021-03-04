@@ -2,7 +2,8 @@
 layout: post
 title:  "To start github"
 date:   2021-03-04
-excerpt: 
+excerpt: 천천히는 빠르다
+tag:
 - github
 - start
 - i
