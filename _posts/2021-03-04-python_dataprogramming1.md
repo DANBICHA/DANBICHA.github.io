@@ -10,7 +10,8 @@ tag:
 - soltrux
 comments: true
 ---
-##PYTHON PRIMER part1
+
+## PYTHON PRIMER part1
 
 ```python
 # an example of a dataframe in which python code can be executed in a browser
@@ -23,7 +24,8 @@ y = 20
 
 # print the result of expressing that x is equal to y (False as x does not equal y)
 print(x == y)
-'''
+```
+
 x와 y가 동일 값인지 확인  결과값 : TRUE or False
 
 ```python
