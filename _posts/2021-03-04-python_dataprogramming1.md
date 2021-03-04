@@ -26,7 +26,8 @@ y = 20
 print(x == y)
 ```
 
-x와 y가 동일 값인지 확인  결과값 :    `TRUE` or `FALSE`
+x와 y가 동일 값인지 확인  
+결과값 : `TRUE` or `FALSE`
 
 ```python
 # variable 'text' is assigned the string 'x * y ='
