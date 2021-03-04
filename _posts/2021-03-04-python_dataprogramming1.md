@@ -26,7 +26,7 @@ y = 20
 print(x == y)
 ```
 
-x와 y가 동일 값인지 확인  결과값 : `TRUE` or `False`
+x와 y가 동일 값인지 확인  결과값 :    `TRUE` or `FALSE`
 
 ```python
 # variable 'text' is assigned the string 'x * y ='
@@ -34,6 +34,8 @@ text = 'x * y ='
 
 # print the value of variable 'text' followed by the sum of 'x * y', each of which have previously been defined
 print(text, (x * y))
+```
+text에 x\*y 연산값 포함
 
 # change the value of 'x' by assigning the value 20
 x = 20
